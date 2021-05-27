@@ -1,3 +1,3 @@
-# RProgramming
+# R Programming
 
 ## Introduction of R Programming
